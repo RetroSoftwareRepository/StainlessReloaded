@@ -1,7 +1,11 @@
-stainless
+StainlessReloaded
 =========
 
 A multi-process browser alternative to Google Chrome.
+
+End goal is to get it working under Leopard WebKit's updated rendering engine.
+
+Backstory of original project:
 
 Stainless started out as a technology demo to showcase my own multi-processing architecture in response to Google Chrome (Stainless 0.1 was released three weeks after Google released Chrome for Windows). Sensing an opportunity and inspired by a growing fanbase, I decided to craft Stainless into a full-fledged browser and work on features that I hadn't seen before in other browsers.
 
